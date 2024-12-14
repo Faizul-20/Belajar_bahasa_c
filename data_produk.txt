@@ -1,0 +1,6 @@
+ID : 12345
+Nama : ikan
+Kategori : makanan
+Harga : 123312
+Stok : 1
+

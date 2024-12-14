@@ -1,0 +1,18 @@
+
+
+Detail Produk ke-1
+ID Produk : 12345
+Nama Produk :ikan
+Kategori data : makanan
+Harga : 1500.00
+Stok Produk : 1
+-----------------------------
+
+
+Detail Produk ke-2
+ID Produk : 54321
+Nama Produk :tahu
+Kategori data : makanan
+Harga : 1250.00
+Stok Produk : 1
+-----------------------------
