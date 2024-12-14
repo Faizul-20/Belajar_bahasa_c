@@ -180,7 +180,7 @@ void ubahProduk() {
             fputs(buffer, tempFile);
         }
     }
-
+// test
     fclose(file);
     fclose(tempFile);
 
@@ -230,7 +230,7 @@ void hapusProduk() {
     fclose(file);
     fclose(tempFile);
 
-    if (ditemukan = 1) {
+    if (ditemukan) {
         remove("data_produk.txt");
         rename("data_produk_sementara.txt", "data_produk.txt");
         printf("Data berhasil dihapus.\n");
